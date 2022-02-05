@@ -1,0 +1,19 @@
+body { 
+    background:linear-gradient(red,pink,white); 
+
+} 
+.heading{ 
+    width:80%; 
+    font-size: 22px;
+} 
+.objects{ 
+    color:blue;   
+    font-size:20px; 
+
+
+}
+#camera,#result{ 
+height: 300px; 
+width: 350px; 
+border:2px solid red; 
+} 
